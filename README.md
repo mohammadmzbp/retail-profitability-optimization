@@ -1,6 +1,6 @@
 # Retail Profitability Optimization Dashboard
 
-## 📌 Project Overview
+# 📌 Project Overview
 
 This project analyzes retail sales data to identify why profit is decreasing despite high sales. The analysis focuses on discount impact, product margin, and regional performance.
 
