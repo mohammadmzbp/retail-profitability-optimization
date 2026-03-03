@@ -28,6 +28,9 @@ Profit was declining even though sales were increasing. The goal was to identify
 * Region-wise profit analysis
 * Loss transaction monitoring
 
+## Dashboard
+[Dashboard]
+
 ## 🚀 Project Workflow
 
 Excel → SQL → Power BI
