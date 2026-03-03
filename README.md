@@ -29,7 +29,7 @@ Profit was declining even though sales were increasing. The goal was to identify
 * Loss transaction monitoring
 
 ## Dashboard
-[Dashboard]
+![Dashboard](Retail-Profitability-Optimization/screenshot/Retail_sales_profitability_Dashboard.PNG)
 
 ## 🚀 Project Workflow
 
