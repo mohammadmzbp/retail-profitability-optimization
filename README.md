@@ -16,9 +16,9 @@ Profit was declining even though sales were increasing. The goal was to identify
 
 ## 🛠 Tools Used
 
-* Excel — Data cleaning and preprocessing
-* SQL — Root cause analysis
-* Power BI — Dashboard and visualization
+* Excel - Data cleaning and preprocessing
+* SQL - Root cause analysis
+* Power BI - Dashboard and visualization
 
 ## 📊 Dashboard Features
 
